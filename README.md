@@ -1,5 +1,5 @@
 PROJECT NAME
-# el-faruk
+# el-faruk STORY
 
 GAME DESCRİPTİON
 The play Al Faruk, which takes place in Afghanistan, is a story about the murder of Al Faruk's mother and father by the Taliban terrorist organization and the use of Al Faruk as a slave labor in drug production by the Taliban, and Al Faruk's leveling up and becoming a BOOS.
@@ -27,7 +27,7 @@ SCREENSHOTS
 
 <img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/99028e2a-7888-4fcb-a793-5b52b243cc45" />
 
-
+BİTTİ
 
 
 
